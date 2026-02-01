@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 TE Computer Engineering student (2023–2027)
-- 💻 Interested in Software Development & Machine Learning
+- 💻 Interested in Software Development & AI
 - 🌱 Currently learning DSA, Java & Backend Development
 - 🚀 Rebuilding projects and improving problem-solving skills
 - 🎯 Looking for internship opportunities
