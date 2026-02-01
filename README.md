@@ -1,9 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&theme=github_dark&height=240&section=header&text=Tanishq%20Waghmare&fontSize=46&fontColor=ffffff&desc=TE%20Computer%20Engineering%20Student&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=rounded&theme=github_dark&height=230&section=header&text=Tanishq%20Waghmare&fontSize=44&fontColor=ffffff&desc=TE%20Computer%20Engineering%20Student&descAlign=50&descAlignY=65)
 
-
-
-<h1 align="center">Hi, I'm Tanishq Waghmare</h1>
-<h3 align="center">TE Computer Engineering Student</h3>
 
 ## 👨‍💻 About Me
 
@@ -30,7 +26,5 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
-
 
 
