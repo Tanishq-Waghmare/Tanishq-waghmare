@@ -10,4 +10,8 @@
 - 🚀 Building skills one repo at a time
 
 ---
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,html,css,js,mysql,mongodb,unity,tensorflow" />
+</p>
+
 
