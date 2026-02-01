@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&theme=github_dark&height=230&section=header&text=Tanishq%20Waghmare&fontSize=44&fontColor=ffffff&desc=TE%20Computer%20Engineering%20Student&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:334155&height=230&section=header&text=Tanishq%20Waghmare&fontSize=44&fontColor=ffffff&desc=TE%20Computer%20Engineering%20Student&descAlign=50&descAlignY=65)
+
 
 
 ## 👨‍💻 About Me
