@@ -1,4 +1,4 @@
-
+![header](PASTE_GENERATED_LINK_HERE)
 
 
 <h1 align="center">Hi 👋, I'm Tanishq Waghmare</h1>
