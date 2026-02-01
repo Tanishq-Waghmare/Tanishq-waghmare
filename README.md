@@ -1,7 +1,8 @@
-![header](PASTE_GENERATED_LINK_HERE)
+![header](https://capsule-render.vercel.app/api?type=rect&theme=github_dark&height=240&section=header&text=Tanishq%20Waghmare&fontSize=46&fontColor=ffffff&desc=TE%20Computer%20Engineering%20Student&descAlign=50&descAlignY=65)
 
 
-<h1 align="center">Hi 👋, I'm Tanishq Waghmare</h1>
+
+<h1 align="center">Hi, I'm Tanishq Waghmare</h1>
 <h3 align="center">TE Computer Engineering Student</h3>
 
 ## 👨‍💻 About Me
@@ -28,8 +29,8 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,mongodb,unity,git,github" />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+
 
 
